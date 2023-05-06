@@ -1,5 +1,7 @@
 synApps is a collection of EPICS software intended to support most of the common requirements of an x-ray laboratory or synchrotron-radiation beamline.
 
+Documentation about synApps is contained at http://epics-synapps.github.io/support/
+
 Individual modules are collected at https://github.com/epics-modules
 
 Modules Build Status:
