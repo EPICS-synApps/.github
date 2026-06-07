@@ -7,7 +7,7 @@ Individual modules are collected at https://github.com/epics-modules
 Modules Build Status:
 
 
-[![asyn](https://github.com/epics-modules/asyn/actions/workflows/ci-scripts.yml/badge.svg)](https://github.com/epics-modules/asyn/actions/workflows/ci-scripts.yml)&nbsp;
+[![Appveyor Build Status](https://ci.appveyor.com/api/projects/status/github/epics-modules/asyn?branch=master&svg=true)](https://ci.appveyor.com/project/MarkRivers/asyn)
 [![Labjack](https://github.com/epics-modules/LabJack/actions/workflows/ci-scripts-build.yml/badge.svg)](https://github.com/epics-modules/LabJack/actions/workflows/ci-scripts-build.yml)
 [![STD](https://github.com/epics-modules/std/actions/workflows/ci-scripts-build.yml/badge.svg)](https://github.com/epics-modules/std/actions/workflows/ci-scripts-build.yml)
 [![AUTOSAVE](https://github.com/epics-modules/autosave/actions/workflows/ci-scripts-build.yml/badge.svg)](https://github.com/epics-modules/autosave/actions/workflows/ci-scripts-build.yml)  
