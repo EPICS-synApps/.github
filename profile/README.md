@@ -8,7 +8,7 @@ Modules Build Status:
 
 
 [![Appveyor Build Status](https://ci.appveyor.com/api/projects/status/github/epics-modules/asyn?branch=master&svg=true)](https://ci.appveyor.com/project/MarkRivers/asyn)
-[![Labjack](https://github.com/epics-modules/LabJack/actions/workflows/ci-scripts-build.yml/badge.svg)](https://github.com/epics-modules/LabJack/actions/workflows/ci-scripts-build.yml)
+[![ALIVE](https://github.com/epics-modules/alive/actions/workflows/ci-scripts-build.yml/badge.svg)](https://github.com/epics-modules/alive/actions/workflows/ci-scripts-build.yml)
 [![STD](https://github.com/epics-modules/std/actions/workflows/ci-scripts-build.yml/badge.svg)](https://github.com/epics-modules/std/actions/workflows/ci-scripts-build.yml)
 [![AUTOSAVE](https://github.com/epics-modules/autosave/actions/workflows/ci-scripts-build.yml/badge.svg)](https://github.com/epics-modules/autosave/actions/workflows/ci-scripts-build.yml)  
 [![BUSY](https://github.com/epics-modules/busy/actions/workflows/ci-scripts-build.yml/badge.svg)](https://github.com/epics-modules/busy/actions/workflows/ci-scripts-build.yml)
@@ -21,8 +21,9 @@ Modules Build Status:
 [![SOFTGLUE](https://github.com/epics-modules/softGlue/actions/workflows/ci-scripts-build.yml/badge.svg)](https://github.com/epics-modules/softGlue/actions/workflows/ci-scripts-build.yml)  
 [![LOVE](https://github.com/epics-modules/love/actions/workflows/ci-scripts-build.yml/badge.svg)](https://github.com/epics-modules/love/actions/workflows/ci-scripts-build.yml)
 [![SSCAN](https://github.com/epics-modules/sscan/actions/workflows/ci-scripts-build.yml/badge.svg)](https://github.com/epics-modules/sscan/actions/workflows/ci-scripts-build.yml)&nbsp;
-[![VME](https://github.com/epics-modules/vme/actions/workflows/ci-scripts-build.yml/badge.svg)](https://github.com/epics-modules/vme/actions/workflows/ci-scripts-build.yml)  
-[![ALIVE](https://github.com/epics-modules/alive/actions/workflows/ci-scripts-build.yml/badge.svg)](https://github.com/epics-modules/alive/actions/workflows/ci-scripts-build.yml)  
+[![VME](https://github.com/epics-modules/vme/actions/workflows/ci-scripts-build.yml/badge.svg)](https://github.com/epics-modules/vme/actions/workflows/ci-scripts-build.yml)
+[![QUADEM](https://github.com/epics-modules/quadem/actions/workflows/ci-scripts-build.yml/badge.svg)](https://github.com/epics-modules/quadem/actions/workflows/ci-scripts-build.yml)  
+[![Labjack](https://github.com/epics-modules/LabJack/actions/workflows/ci-scripts-build.yml/badge.svg)](https://github.com/epics-modules/LabJack/actions/workflows/ci-scripts-build.yml)  
 
 [![IP](https://github.com/epics-modules/ip/actions/workflows/ci-scripts-build.yml/badge.svg)](https://github.com/epics-modules/ip/actions/workflows/ci-scripts-build.yml)
 [![CAPUTRECORDER](https://github.com/epics-modules/caputRecorder/actions/workflows/ci-scripts-build.yml/badge.svg)](https://github.com/epics-modules/caputRecorder/actions/workflows/ci-scripts-build.yml)
